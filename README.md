@@ -23,7 +23,7 @@ By default, the script recalculates the matrix-based summaries and reads the com
 
 The script requires `readxl`, `ggplot2`, `NetIndices`, `igraph`, `vegan`, `lme4`, `rjags`, `coda` and `loo`. A working JAGS installation is required. The default run reads stored model results, while refit options may take several hours.
 
-If the manuscript is accepted, a fixed release of the repository will be permanently archived in Zenodo.
+If the manuscript is accepted, a fixed release of the repository will be permanently archived.
 
 ## References
 
